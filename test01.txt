@@ -1,2 +1,4 @@
-Git�̗��K�����Ă݂�
-���ڂ̕ύX�����Ă݂�
+﻿Gitの練習をしてみるるる
+一回目の変更をしてみた
+.git add
+.git commit
